@@ -328,3 +328,6 @@ const jobsData = [
     "coef": 0
   }, 
 ]
+
+module.exports = jobsData
+

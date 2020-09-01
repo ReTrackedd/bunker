@@ -190,3 +190,5 @@ const infoData = [
     "desc": ""
   },
 ]
+
+module.exports = infoData

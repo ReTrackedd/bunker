@@ -208,3 +208,5 @@ const featData = [
     "coef": 0
   },
 ]
+
+module.exports = featData;

@@ -5,6 +5,11 @@ const hobbyData = [
     "desc": ""
   },
   {
+    "name": "Гра на музичних інструментах",
+    "coef": 0,
+    "desc": ""
+  },
+  {
     "name": "Будівництво моделей літаків",
     "coef": 0,
     "desc": ""
@@ -170,3 +175,5 @@ const hobbyData = [
     "desc": ""
   },
 ]
+
+module.exports = hobbyData;

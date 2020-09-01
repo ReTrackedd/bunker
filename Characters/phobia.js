@@ -261,3 +261,5 @@ const phobiaData = [
   },
 ]
 
+module.exports = phobiaData
+
