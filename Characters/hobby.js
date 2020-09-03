@@ -165,6 +165,11 @@ const hobbyData = [
     "desc": ""
   },
   {
+    "name": "Бойове мистецтво",
+    "coef": 0,
+    "desc": ""
+  },
+  {
     "name": "Садоводство",
     "coef": 0,
     "desc": ""
